@@ -6,14 +6,14 @@
 
 <p align="center">
   <strong>Percussive maintainer • Engineer • Maker • Game Dev • Space Enthusiast</strong><br>
-  Houston, TX | Building robots, simulations, and games that (hopefully) don't explode 🚀🤖🎮
+  Building robots, simulations, and games that (hopefully) don't explode 🚀🤖🎮
 </p>
 
 <p align="center">
   <a href="https://kalebsabo.com"><img src="https://img.shields.io/badge/Website-kalebsabo.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/kalebsabo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/KalebJStone"><img src="https://img.shields.io/badge/X-@KalebJStone-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge" alt="Email"></a>
+  <a href="https://ShadowedHands.itch.io"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"></a>
 </p>
 
 ---
@@ -86,6 +86,11 @@ More: Streamlit, Blender, FreeCAD, C++, Markdown
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebSabo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KalebSabo&color=blue" alt="Visitor Count">
+</div> 
+
 
 ---
 
