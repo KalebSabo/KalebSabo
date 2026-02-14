@@ -61,7 +61,7 @@
 ---
 
 ### 🚀 What I'm up to right now
-- Simulating **radiative cooling** for reusable heat shields (SpaceX vibes) → live demo!
+- Simulating **radiative cooling** for reusable heat shields, live demo!
 - Walking biped robots built mostly from 3D prints and servos
 - Godot game prototypes and interactive simulations
 - Learning low-level ML by training tiny transformers from scratch
