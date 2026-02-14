@@ -33,7 +33,7 @@ Always down to talk shop — robotics, thermal protection, Godot, or why duct ta
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/KalebSabo/radiative-cooling-simulator/02_Images/SpaceRadiativeCoolingSimPic.png">
+      <a href="./Images/RadCoolGraph.jpg">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalebSabo&repo=radiative-cooling-simulator&theme=dracula" alt="radiative-cooling-simulator"/>
       </a>
       <br>Radiative Cooling Simulator<br>Physics-based TPS modeling • Streamlit live demo
