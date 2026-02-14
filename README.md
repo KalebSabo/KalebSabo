@@ -89,7 +89,6 @@ More: Streamlit, Blender, FreeCAD, C++, Markdown
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalebSabo&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalebSabo&theme=dracula&hide_border=true" alt="Streak Stats"/>
 </div>
 
