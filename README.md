@@ -7,30 +7,39 @@
 <table>
   <tr>
     <td align="center">
-      <img href="./Images/RadCoolGraph.jpg">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalebSabo&repo=radiative-cooling-simulator&theme=dracula" alt="radiative-cooling-simulator"/>
+        <a href="https://github.com/KalebSabo/radiative-cooling-simulator">
+        <img src="./Images/RadiativeCooling.png" 
+        alt= "Radiative Cooling Simulator"
+        width="50%"
+        height="50%"
+        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+        >
       </a>
-      <br>Radiative Cooling Simulator<br>Physics-based TPS modeling • Streamlit live demo
+      <br><strong>Radiative Cooling Simulator</strong><br>Physics-based TPS modeling • Streamlit live demo
     </td>
-    <td align="center">
-      <a href="https://github.com/KalebSabo/thermal-robot-eragon">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalebSabo&repo=thermal-robot-eragon&theme=dracula" alt="thermal-robot-eragon"/>
+      <td align="center">
+        <a href="https://github.com/KalebSabo/radiative-cooling-simulator">
+        <img src="./Images/ESP32.png" 
+        alt= "Project Eragon (Robot)"
+        width="50%"
+        height="50%"
+        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+        >
       </a>
-      <br>Project Eragon<br>~30 cm 3D-printed biped walker • ESP32 servo control
+      <br><strong>Project Eragon</strong><br> Bipedal Robot
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/KalebSabo/personal-llm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalebSabo&repo=personal-llm&theme=dracula" alt="personal-llm"/>
-      </a>
-      <br>Personal LLM <br>Character-level transformer in PyTorch • Trained on tiny datasets
-    </td>
-    <td align="center">
       <a href="https://github.com/KalebSabo/PortfolioWebsite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalebSabo&repo=PortfolioWebsite&theme=dracula" alt="PortfolioWebsite"/>
+        <img src="./Images/Portfolio.png" 
+        alt= "Portfolio Website"
+        width="50%"
+        height="50%"
+        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+        >
       </a>
-      <br>Portfolio Site<br>Source for kalebsabo.com • Showcases all projects
+      <br><strong>Portfolio Site</strong><br>Source for kalebsabo.com • Showcases all projects
     </td>
   </tr>
 </table>
@@ -56,6 +65,7 @@
 - Walking biped robots built mostly from 3D prints and servos
 - Godot game prototypes and interactive simulations
 - Learning low-level ML by training tiny transformers from scratch
+- Quantum Key Distribution (QKD) CubeSat Mockup
 
 Always down to talk shop — robotics, thermal protection, Godot, or why duct tape is a valid engineering material.
 
@@ -84,10 +94,6 @@ More: Streamlit, Blender, FreeCAD, C++, Markdown
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebSabo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=KalebSabo&color=blue" alt="Visitor Count">
 </div> 
 
@@ -98,17 +104,3 @@ More: Streamlit, Blender, FreeCAD, C++, Markdown
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&text=Let's%20build%20something%20cool&fontSize=30&fontColor=fff" alt="footer" />
 </div>
 
-<!--
-**KalebSabo/KalebSabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
