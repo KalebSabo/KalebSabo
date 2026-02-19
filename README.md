@@ -47,8 +47,8 @@
 <h1 align="center">Kaleb Sabo</h1>
 
 <p align="center">
-  <strong>Percussive maintainer • Security Researcher • Robotics Maker • Game Dev<br>
-Bridging the gap between physical hardware, autonomous agents, and secure systems.</strong><br>
+  <strong>Percussive maintainer • Security Researcher • Robotics Maker • Game Dev</strong><br>
+Bridging the gap between physical hardware, autonomous agents, and secure systems.<br>
 </p>
 
 <p align="center">
