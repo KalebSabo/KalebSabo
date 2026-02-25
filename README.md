@@ -15,7 +15,7 @@
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
-      <br><strong>Radiative Cooling Simulator</strong><br>Physics-based TPS modeling • Streamlit live demo
+      <br><strong>Radiative Cooling Sim</strong><br>Physics-based TPS modeling • Streamlit live demo
     </td>
       <td align="center">
         <a href="https://github.com/KalebSabo/thermal-robot-eragon">
