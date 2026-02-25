@@ -43,7 +43,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/KalebSabo/heat-diffusion-sim">
-        <img src="./Images/HeatDiffusionPic.png" 
+        <img src="./Images/HeatDiffusionSimPic.png" 
         alt= "Heat Diffusion Simulation"
         width="50%"
         height="50%"
