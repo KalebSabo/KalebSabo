@@ -41,6 +41,17 @@
       </a>
       <br><strong>Portfolio Site</strong><br>Source for kalebsabo.com • Showcases all projects
     </td>
+    <td align="center">
+      <a href="https://github.com/KalebSabo/heat-diffusion-sim">
+        <img src="./Images/HeatDiffusionPic.png" 
+        alt= "Heat Diffusion Simulation"
+        width="50%"
+        height="50%"
+        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+        >
+      </a>
+      <br><strong>Heat Diffusion Sim</strong><br>Heat Diffusion Sim • Matrix/Numpy project
+    </td>
   </tr>
 </table>
 
