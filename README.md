@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:gradient(blue,purple),100:pink&height=200&section=header&text=Hey%20there!%20I'm%20Kaleb&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" alt="header" />
 </div>
 
+### Expect longer downtime until June due to OSCP study!
+
 ### 🔥 Featured Projects
 
 <table>
