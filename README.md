@@ -17,10 +17,10 @@
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
-      <br><strong>Radiative Cooling Simulator</strong><br>Physics-based TPS modeling • Streamlit live demo
+      <br><strong>Radiative Cooling Sim</strong><br>Physics-based TPS modeling • Streamlit live demo
     </td>
       <td align="center">
-        <a href="https://github.com/KalebSabo/radiative-cooling-simulator">
+        <a href="https://github.com/KalebSabo/thermal-robot-eragon">
         <img src="./Images/ESP32.png" 
         alt= "Project Eragon (Robot)"
         width="50%"
@@ -43,14 +43,25 @@
       </a>
       <br><strong>Portfolio Site</strong><br>Source for kalebsabo.com • Showcases all projects
     </td>
+    <td align="center">
+      <a href="https://github.com/KalebSabo/heat-diffusion-sim">
+        <img src="./Images/HeatDiffusionSimPic.png" 
+        alt= "Heat Diffusion Simulation"
+        width="50%"
+        height="50%"
+        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+        >
+      </a>
+      <br><strong>Heat Diffusion Sim</strong><br>Heat Diffusion Sim • Matrix/Numpy project
+    </td>
   </tr>
 </table>
 
 <h1 align="center">Kaleb Sabo</h1>
 
 <p align="center">
-  <strong>Percussive maintainer • Engineer • Maker • Game Dev • Space Enthusiast</strong><br>
-  Building robots, simulations, and games that (hopefully) don't explode 🚀🤖🎮
+  <strong>Percussive maintainer • Security Researcher • Robotics Maker • Game Dev</strong><br>
+Bridging the gap between physical hardware, autonomous agents, and secure systems.<br>
 </p>
 
 <p align="center">
@@ -63,11 +74,13 @@
 ---
 
 ### 🚀 What I'm up to right now
-- Simulating **radiative cooling** for reusable heat shields, live demo!
-- Walking biped robots built mostly from 3D prints and servos
-- Godot game prototypes and interactive simulations
-- Learning low-level ML by training tiny transformers from scratch
-- Quantum Key Distribution (QKD) CubeSat Mockup
+🛡️ Cybersecurity: Currently grinding for the OSCP and developing a vulnerability assessment framework.
+
+🤖 AI Agents: Building autonomous agents and exploring space-hardened compute solutions.
+
+🛰️ Space Tech: Mocking up a Quantum Key Distribution (QKD) CubeSat and simulating radiative cooling.
+
+🚶 Robotics: Refining Project Eragon, a bipedal robot built on ESP32/Pi and 3D-printed parts.
 
 Always down to talk shop — robotics, thermal protection, Godot, or why duct tape is a valid engineering material.
 
@@ -84,7 +97,9 @@ Check out my full portfolio at **[kalebsabo.com](https://kalebsabo.com)**
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
 </p>
 
-More: Streamlit, Blender, FreeCAD, C++, Markdown
+More: Streamlit, Blender, FreeCAD, C++, Markdown, Network Security
+
+Currently Learning: Quantum Gravity, Low-level ML
 
 ---
 
