@@ -3,6 +3,10 @@
 </div>
 
 ### Expect longer downtime until June due to OSCP study!
+#### Current OSCP progress:
+<img src="./Images/oscp_notes.png alt="OSCP note screenshot" 
+width=50% height=50% align="center"
+style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);">
 
 ### 🔥 Featured Projects
 
