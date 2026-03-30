@@ -20,8 +20,8 @@
         <a href="https://github.com/KalebSabo/radiative-cooling-simulator">
         <img src="./Images/RadiativeCooling.png" 
         alt= "Radiative Cooling Simulator"
-        width="50%"
-        height="50%"
+        width="100%"
+        height="100%"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -29,14 +29,14 @@
     </td>
       <td align="center">
         <a href="https://github.com/KalebSabo/thermal-robot-eragon">
-        <img src="./Images/ESP32.png" 
+        <img src="./Images/LeftLegMk1.png" 
         alt= "Project Eragon (Robot)"
-        width="50%"
-        height="50%"
+        width="100%"
+        height="100%"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
-      <br><strong>Project Eragon</strong><br> Bipedal Robot
+      <br><strong>Project Eragon</strong><br> Bipedal Robot (Left Leg Mk1)
     </td>
   </tr>
   <tr>
@@ -44,8 +44,8 @@
       <a href="https://github.com/KalebSabo/PortfolioWebsite">
         <img src="./Images/Portfolio.png" 
         alt= "Portfolio Website"
-        width="50%"
-        height="50%"
+        width="100%"
+        height="100%"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -55,8 +55,8 @@
       <a href="https://github.com/KalebSabo/heat-diffusion-sim">
         <img src="./Images/HeatDiffusionSimPic.png" 
         alt= "Heat Diffusion Simulation"
-        width="50%"
-        height="50%"
+        width="100%"
+        height="100%"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
