@@ -5,12 +5,13 @@
 ### Expect longer downtime until June due to OSCP study!
 
 ### 🔥 Featured Projects
-
 <table>
   <tr align="center">
     <td>
-      <img src="./Images/oscp_notes.png" alt="OSCP note screenshot" 
-      width=100% height=100% align="center"
+      <img src="./Images/oscp_notes.png" 
+      alt="OSCP note screenshot" 
+      width="400px"
+      height="200px" 
       style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);">
     <br><strong>OSCP</strong><br>Offensive Cybersecurity research
     </td>
@@ -20,8 +21,8 @@
         <a href="https://github.com/KalebSabo/radiative-cooling-simulator">
         <img src="./Images/RadiativeCooling.png" 
         alt= "Radiative Cooling Simulator"
-        width="100%"
-        height="100%"
+        width="400px"
+        height="200px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -29,10 +30,10 @@
     </td>
       <td align="center">
         <a href="https://github.com/KalebSabo/thermal-robot-eragon">
-        <img src="./Images/LeftLegMk1.png" 
+        <img src="./Images/LeftLegMk1.jpg" 
         alt= "Project Eragon (Robot)"
-        width="100%"
-        height="100%"
+        width="400px"
+        height="200px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -44,8 +45,8 @@
       <a href="https://github.com/KalebSabo/PortfolioWebsite">
         <img src="./Images/Portfolio.png" 
         alt= "Portfolio Website"
-        width="100%"
-        height="100%"
+        width="400px"
+        height="200px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -55,8 +56,8 @@
       <a href="https://github.com/KalebSabo/heat-diffusion-sim">
         <img src="./Images/HeatDiffusionSimPic.png" 
         alt= "Heat Diffusion Simulation"
-        width="100%"
-        height="100%"
+        width="400px"
+        height="200px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
