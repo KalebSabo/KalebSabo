@@ -5,13 +5,13 @@
 ### Expect longer downtime until June due to OSCP study!
 
 ### 🔥 Featured Projects
-<table>
+<table align="center">
   <tr align="center">
     <td>
       <img src="./Images/oscp_notes.png" 
       alt="OSCP note screenshot" 
       width="400px"
-      height="200px" 
+      height="400px" 
       style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);">
     <br><strong>OSCP</strong><br>Offensive Cybersecurity research
     </td>
@@ -22,7 +22,7 @@
         <img src="./Images/RadiativeCooling.png" 
         alt= "Radiative Cooling Simulator"
         width="400px"
-        height="200px"
+      height="400px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -33,7 +33,7 @@
         <img src="./Images/LeftLegMk1.jpg" 
         alt= "Project Eragon (Robot)"
         width="400px"
-        height="200px"
+      height="400px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -46,7 +46,7 @@
         <img src="./Images/Portfolio.png" 
         alt= "Portfolio Website"
         width="400px"
-        height="200px"
+        height="400px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -57,7 +57,7 @@
         <img src="./Images/HeatDiffusionSimPic.png" 
         alt= "Heat Diffusion Simulation"
         width="400px"
-        height="200px"
+        height="400px"
         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
         >
       </a>
@@ -83,15 +83,13 @@ Bridging the gap between physical hardware, autonomous agents, and secure system
 ---
 
 ### 🚀 What I'm up to right now
-🛡️ Cybersecurity: Currently grinding for the OSCP and developing a vulnerability assessment framework.
+🛡️ **Cybersecurity**: Currently grinding for the OSCP and developing a vulnerability assessment framework.
 
-🤖 AI Agents: Building autonomous agents and exploring space-hardened compute solutions.
+🤖 **AI Agents**: Building autonomous agents and exploring space-hardened compute solutions.
 
-🛰️ Space Tech: Mocking up a Quantum Key Distribution (QKD) CubeSat and simulating radiative cooling.
+🛰️ **Space Tech**: Mocking up a Quantum Key Distribution (QKD) CubeSat and simulating radiative cooling.
 
-🚶 Robotics: Refining Project Eragon, a bipedal robot built on ESP32/Pi and 3D-printed parts.
-
-Always down to talk shop — robotics, thermal protection, Godot, or why duct tape is a valid engineering material.
+🚶 **Robotics**: Refining Project Eragon, a bipedal robot built on ESP32/Pi and 3D-printed parts.
 
 ---
 
