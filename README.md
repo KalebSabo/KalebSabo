@@ -4,16 +4,6 @@
 
 ### 🔥 Featured Projects
 <table align="center">
-  <tr align="center">
-    <td>
-      <img src="./Images/oscp_notes.png" 
-      alt="OSCP note screenshot" 
-      width="400px"
-      height="400px" 
-      style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);">
-    <br><strong>OSCP</strong><br>Offensive Cybersecurity research
-    </td>
-  </tr>
   <tr>
     <td align="center">
         <a href="https://github.com/KalebSabo/radiative-cooling-simulator">
