@@ -52,6 +52,19 @@
       <br><strong>Heat Diffusion Sim</strong><br>Heat Diffusion Sim • Matrix/Numpy project
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KalebSabo/voice-to-vector-database-pipeline">
+        <img src="./Images/VoiceVectorImage.png" 
+        alt= "Voice to VectorDB pipeline"
+        width="400px"
+        height="400px"
+        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+        >
+      </a>
+      <br><strong>Voice to VectorDB</strong><br>A Machine Learning Project
+    </td>
+  </tr>
 </table>
 
 <h1 align="center">Kaleb Sabo</h1>
@@ -71,11 +84,10 @@ Bridging the gap between physical hardware, autonomous agents, and secure system
 ---
 
 ### 🚀 What I'm up to right now
-🛡️ **Cybersecurity**: Currently grinding for the OSCP and developing a vulnerability assessment framework.
 
-🤖 **AI Agents**: Building autonomous agents and exploring space-hardened compute solutions.
+🤖 **AI Agents**: Building autonomous agents and machine learning pipelines.
 
-🛰️ **Space Tech**: Mocking up a Quantum Key Distribution (QKD) CubeSat and simulating radiative cooling.
+🛰️ **Space Tech**: Simulating radiative cooling and its effects in space.
 
 🚶 **Robotics**: Refining Project Eragon, a bipedal robot built on ESP32/Pi and 3D-printed parts.
 
@@ -93,8 +105,6 @@ Check out my full portfolio at **[kalebsabo.com](https://kalebsabo.com)**
 </p>
 
 More: Streamlit, Blender, FreeCAD, C++, Markdown, Network Security
-
-Currently Learning: Quantum Gravity, Low-level ML
 
 ---
 
