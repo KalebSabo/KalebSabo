@@ -67,61 +67,30 @@
   </tr>
 </table>
 
-<h1 align="center">Kaleb Sabo</h1>
+### Hi there 👋 I'm Kaleb Sabo
 
-<p align="center">
-  <strong>Percussive maintainer • Security Researcher • Robotics Maker • Autonomous Systems Engineer</strong><br>
-Bridging the gap between physical hardware, autonomous agents, and secure systems.<br>
-</p>
-
-<p align="center">
-  <a href="https://kalebsabo.com"><img src="https://img.shields.io/badge/Website-kalebsabo.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/kalebsabo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/KalebJStone"><img src="https://img.shields.io/badge/X-@KalebJStone-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://ShadowedHands.itch.io"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"></a>
-</p>
+**Percussive maintainer • Security Researcher • Maker • Autonomous Systems Engineer**
 
 ---
 
-### 🚀 What I'm up to right now
-
-🤖 **AI Agents**: Building autonomous agents and machine learning pipelines.
-
-🛰️ **Space Tech**: Simulating radiative cooling and its effects in space.
-
-🚶 **Robotics**: Refining Project Eragon, a bipedal robot built on ESP32/Pi and 3D-printed parts.
+### 🛠️ Tech Stack & Toolkit
+* **Languages:** C++, Python, Bash
+* **Embedded & Robotics:** ESP32, FreeRTOS, ROS2, Micro-ROS
+* **Engineering & CAD:** FreeCAD, KiCad, 3D Fabrication
+* **Infrastructure & Security:** Linux, Docker, Git, CompTIA Security+
 
 ---
 
-Check out my full portfolio at **[kalebsabo.com](https://kalebsabo.com)**
+### 🚀 What I'm Working On
+* **Eragon (Bipedal Robot):** Building a custom bipedal robot from scratch—handling everything from mechanical CAD modeling and PCB design to ROS2 integration and custom ESP32 firmware.
+* **Infrastructure & Automation:** Developing internal deployment scripts and scaling local testing environments.
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white" alt="Godot"/>
-  <img src="https://img.shields.io/badge/3D_Printing-FF69B4?style=for-the-badge&logo=openscad&logoColor=white" alt="3D Printing"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-</p>
-
-More: Streamlit, Blender, FreeCAD, C++, Markdown, Network Security
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalebSabo&theme=dracula&hide_border=true" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KalebSabo&color=blue" alt="Visitor Count">
-</div> 
+📫 **Reach out:** 
+* Portfolio: [kalebsabo.com](https://kalebsabo.com)
+* Engineering Portfolio: [SzaberDesign.com](https://SzaberDesign.com)
+* LinkedIn: [in/kalebsabo](https://www.linkedin.com/in/kalebsabo)
 
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&text=Let's%20build%20something%20cool&fontSize=30&fontColor=fff" alt="footer" />
-</div>
 
