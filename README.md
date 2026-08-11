@@ -67,7 +67,3 @@ I build end-to-end systems that span firmware, mechanics, and software—from bi
 - Portfolio: [kalebsabo.com](https://kalebsabo.com)
 - Engineering portfolio: [SzaberDesign.com](https://SzaberDesign.com)
 - LinkedIn: [linkedin.com/in/kalebsabo](https://www.linkedin.com/in/kalebsabo)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalebSabo&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats for KalebSabo" height="140" />
-</p>
