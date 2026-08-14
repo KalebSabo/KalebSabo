@@ -2,14 +2,13 @@
 
 **Percussive maintainer · security researcher · maker · autonomous systems engineer**
 
-I build end-to-end systems that span firmware, mechanics, and software—from bipedal robots and thermal simulations to ML pipelines and portfolio tooling.
-
+I build end-to-end systems that span firmware, mechanics, and software
 ---
 
 ### Currently working on
 
-- **[Eragon](https://github.com/KalebSabo/thermal-robot-eragon)** — Compact ~30 cm bipedal robot: FreeCAD → PCB/firmware → ROS2 / Micro-ROS on ESP32
-- **Infrastructure & automation** — Deployment scripts and local test environments for faster iteration
+- **[Eragon](https://github.com/KalebSabo/thermal-robot-eragon)** Compact ~30 cm bipedal robot: FreeCAD → PCB/firmware → ROS2 / Micro-ROS on ESP32
+- **Infrastructure & Automation** Deployment scripts and local test environments for faster iteration
 
 ---
 
@@ -57,8 +56,8 @@ I build end-to-end systems that span firmware, mechanics, and software—from bi
 | --- | --- |
 | **Languages** | C++, Python, Bash |
 | **Embedded & robotics** | ESP32, FreeRTOS, ROS2, Micro-ROS |
-| **Engineering & CAD** | FreeCAD, KiCad, 3D fabrication |
-| **Infrastructure & security** | Linux, Docker, Git, CompTIA Security+ |
+| **Engineering & CAD** | FreeCAD, 3D fabrication |
+| **Infrastructure & security** | Linux, Git, CompTIA Security+ |
 
 ---
 
