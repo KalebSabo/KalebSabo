@@ -7,8 +7,11 @@ I build end-to-end systems that span firmware, mechanics, and software
 
 ### Currently working on
 
-- **[Eragon](https://github.com/KalebSabo/thermal-robot-eragon)** Compact ~30 cm bipedal robot: FreeCAD → PCB/firmware → ROS2 / Micro-ROS on ESP32
-- **Infrastructure & Automation** Deployment scripts and local test environments for faster iteration
+- **[Eragon](https://github.com/KalebSabo/thermal-robot-eragon)**
+    -  Compact ~30 cm bipedal robot: FreeCAD → PCB/firmware → ROS2 / Micro-ROS on ESP32
+ 
+- **Infrastructure & Automation**
+    -  Deployment scripts and local test environments for faster iteration
 
 ---
 
