@@ -67,5 +67,5 @@ I build end-to-end systems that span firmware, mechanics, and software
 ### Connect
 
 - Portfolio: [kalebsabo.com](https://kalebsabo.com)
-- Engineering portfolio: [SzaberDesign.com](https://SzaberDesign.com)
+- Engineering portfolio: [SzaboMakes.com](https://SzaboMakes.com)
 - LinkedIn: [linkedin.com/in/kalebsabo](https://www.linkedin.com/in/kalebsabo)
